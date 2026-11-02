@@ -12,10 +12,10 @@ This project continues the Sweet Crumbs Bakery website from Part 2. The cream, b
 - `product.html` — Product catalogue with live search and category filters.
 - `enquiry.html` — Enquiry form with validation and email preparation.
 - `contact.html` — Contact form, contact details, business hours and interactive map.
-- `css/style.css` — Shared styles, responsive layouts, animation, gallery, form and map styles.
-- `js/main.js` — Shared JavaScript for search/filtering, lightbox, form validation, map and reveal effects.
+- `style.css` — Shared styles, responsive layouts, animation, gallery, form and map styles.
+- `main.js` — Shared JavaScript for search/filtering, lightbox, form validation, map and reveal effects.
 - `robots.txt` and `sitemap.xml` — Crawler and sitemap files.
-- `images/` — Bakery images and responsive image sizes.
+- Image files (`logo*.jpeg`, `pic*.jpeg`, `pc2*.jpeg`) — Bakery images and responsive image sizes, stored in the same folder as the pages.
 - `Sweet_Crumbs_Bakery_Proposal.pdf` — Part 1 website proposal.
 
 ## Part 3 functionality
